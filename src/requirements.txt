@@ -1,0 +1,4 @@
+langchain
+exa_py
+python-dotenv
+crewai
